@@ -8,3 +8,11 @@
 
 **Link to work:** [personal website in progress](https://github.com/the-color-of-pomegranates/website)
 
+### Day 1: april 7th, 2022 
+
+**Today's Progress**: tried to make a little app using twilio and giphy
+
+**Thoughts:** oh boy, what a mess! can get giphy api working but not sure how to hook it up to server side javascript needed to send text via twilio - to work on tomorrow
+
+**Link to work:** [personal website in progress](https://github.com/the-color-of-pomegranates/finger-touch.git)
+
