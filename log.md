@@ -16,3 +16,11 @@
 
 **Link to work:** [personal website in progress](https://github.com/the-color-of-pomegranates/finger-touch.git)
 
+### Day 2: april 8th, 2022 
+
+**Today's Progress**: continued to work on the little app using twilio and giphy
+
+**Thoughts:** got twilio code to work! but still haven't linked up clientside js and serverside js...
+
+**Link to work:** [personal website in progress](https://github.com/the-color-of-pomegranates/finger-touch.git)
+
